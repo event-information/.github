@@ -1,10 +1,10 @@
 ## 🌈 서울컬쳐포트 (SeoulCulturePort)
 
-🙋‍♀️ 5조 팀원 : FE 송철환 김용민 , BE 장진혁 노명빈 홍다정
+🙋‍♀️ 5조 : FE 송철환 김용민 , BE 장진혁 노명빈 홍다정
 
 
 
-👩‍💻 기술스택: 
+👩‍💻 기술스택 : 
 
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0)
