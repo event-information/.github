@@ -7,7 +7,7 @@
 🔧 기술스택 : 
 
 
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0) [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)](www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)]([www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78))
 
 
 <!--
