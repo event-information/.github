@@ -7,17 +7,17 @@
 👨‍👩‍👧‍👦  5조 : FE 송철환 김용민 , BE 장진혁 노명빈 [홍다정](https://github.com/bambee83)
 
 # [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78) 
-
+<!--http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com/-->
 
 ## 🔧 Technologies & Software Used
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-round&logo=SpringSecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/>   <img src="https://img.shields.io/badge/github-181717?style=flat-round&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-round&logo=SpringSecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=react&logoColor=white"/>    <img src="https://img.shields.io/badge/github-181717?style=flat-round&logo=github&logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-round&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/java-FF81F9?style=flat-round"/>  <img src="https://img.shields.io/badge/JSONWebToken-000000?style=flat-round&logo=JsonWebToken&logoColor=white"/>  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-round&logo=Gradle&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-round&logo=IntelliJIDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-round&logo=AmazonS3&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-round&logo=AmazonEC2&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-round&logo=AmazonRDS&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-round&logo=Ubuntu&logoColor=white"/>
 
---react badge추가필요
+--react badge추가필요 ????
 
 ## ✨ 프로젝트 구현 기능 
 
