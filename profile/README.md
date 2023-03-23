@@ -4,7 +4,7 @@
 
 📅 프로젝트 기간 : 2022.10.21-2022.10.27
 
-👨‍👩‍👧‍👦  5조 : FE 송철환 김용민 , BE 장진혁 노명빈 [홍다정](https://github.com/bambee83)
+👨‍👩‍👧‍👦  5조 : FE [송철환](https://github.com/SsongCh94) 김용민 , BE [장진혁](https://github.com/jangjh45) 노명빈 [홍다정](https://github.com/bambee83)
 
 # [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78) [![Web Badge](https://img.shields.io/badge/Web-EF5734.svg?&style=flat-round&logo=web&link=http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com)]([https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78](http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com)) 
 <!--http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com/-->
@@ -23,9 +23,9 @@
 
 1. 홈 화면 💒
   
-  모든 사용자가 전체 게시글을 조회 및 검색을 할 수 있도록 구현하였습니다.
+   모든 사용자가 전체 게시글을 조회 및 검색을 할 수 있도록 구현하였습니다.
  
-  회원가입과 로그인 을 헤더에 설정하여 로그인 시 마이페이지및 나의 닉네임을 확인할 수 있도록 하였습니다.  
+   회원가입과 로그인 을 헤더에 설정하여 로그인 시 마이페이지및 나의 닉네임을 확인할 수 있도록 하였습니다.  
 
 2. 회원가입 로그인 🔑
 
