@@ -33,7 +33,7 @@
 
 2. 회원가입 로그인 
 
-   JWT2ebToken + spring boot Security 를 적용하여 구현하였습니다.
+   JWTWebToken + spring boot Security 를 적용하여 구현하였습니다.
 
 3. 게시글 조회 
 
@@ -64,7 +64,7 @@
 
 8. 예외처리 
 
-    Custom ErrorCode 및 statuscode를 전달하여 프론트엔드와 명확하게 소통하였습니다. 
+    Custom ErrorCode 및 StatusCode를 전달하여 프론트엔드와 명확하게 소통하였습니다. 
 
 
 ## 🏀 [Trouble Shooting](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)
