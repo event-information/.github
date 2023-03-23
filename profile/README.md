@@ -24,7 +24,7 @@
 
 
 
-## ✨ [프로젝트 구현 기능](http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com) 
+## 🔑 [프로젝트 구현 기능](http://yongminbucket.s3-website.ap-northeast-2.amazonaws.com) 
 
 1. 홈 화면 
   
