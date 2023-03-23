@@ -68,7 +68,7 @@
     Custom ErrorCode 및 statuscode를 전달하여 프론트엔드와 명확하게 소통하였습니다. 
 
 
-## 🏀 Trouble Shooting
+## 🏀 [Trouble Shooting](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)
 
    Back-End
    1. 개인 계정마다 게시글, 댓글에 대한 좋아요 여부 판단 로직
